@@ -1,0 +1,12 @@
+#score-container {
+    height: 85px;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 5px solid;
+}
+
+#score-container > span {
+    font-size: 25px;
+    line-height: 85px;
+    margin: 0 15px;
+}
